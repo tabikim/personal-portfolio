@@ -1,0 +1,45 @@
+header {
+	text-align: center;
+}
+h1 {
+	font-size: 48px;
+}
+
+nav {
+	text-align: center;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #a0a0a0;
+}
+
+body {
+	text-align: center;
+}
+
+img {
+	width: 475px;
+	height: 500px;
+	padding: 3em;
+}
+
+#about {
+	float: left;
+}
+
+p {
+	padding: 5em;
+}
+
+#project {
+	border-bottom: 1px dotted;
+	border-width: 80%;
+
+}
+
+#projectimg {
+	width: 450px;
+	height: 350px;
+}
+
+#resume {
+	height: 600px;
+}

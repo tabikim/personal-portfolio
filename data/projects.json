@@ -1,0 +1,3 @@
+[{"project":"Dawg Coffee","description":"Development of fictious coffee site","language":"HTML, CSS","link":"http://students.washington.edu/tabikim/info343/dawg-coffee/","image":"img/dawgcoffee.png"},
+{"project":"Spotify Challenge","description":"Spotify web app to create/login to your account and search for tracks based on artist search","language":"HTML, CSS, Angular.js, Spotify Web API","link":"http://students.washington.edu/tabikim/info343/spotify-challenge/","image":"img/spotify.png"},
+{"project":"Police Shooting","description":"Data visualization of police shootings mapping","language":"HTML, CSS, Leaflet.js, BootStrap","link":"http://students.washington.edu/tabikim/info343/police-shooting/","image":"img/policeshooting.png"}]

@@ -1,0 +1,7 @@
+<form id="project" ng-repeat="portfolio in data">
+	<img id="projectimg" width="450" height="350" src="{{portfolio.image}}" alt="{{portfolio.project}}"> <br>
+	<b>Project:</b> {{portfolio.project}}<br>
+	<b>Description:</b> {{portfolio.description}}<br>
+	<b>Language:</b> {{portfolio.language}} <br>
+	<b>Site:</b> <a href="{{portfolio.link}}">{{portfolio.project}}</a><br>
+</form>
